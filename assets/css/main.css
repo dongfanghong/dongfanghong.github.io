@@ -3278,9 +3278,9 @@
 			border-bottom-color: #dddddd;
 		}
 
-		#nav + #main {
+		/*(#nav + #main {
 			padding-top: 4.25em;
-		}
+		}*/
 
 		#nav ul {
 			margin: 0;
