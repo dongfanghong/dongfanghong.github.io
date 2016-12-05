@@ -2848,6 +2848,19 @@
 			margin-top: 3em;
 			padding: 0;
 		}
+			#university {
+				margin:0;
+    			padding:0;
+			}
+
+			#date {
+				margin:0;
+    			padding:0;
+			}
+
+			#description {
+				margin-top: 1em;
+			}
 
 			.features li:nth-child(1), .features li:nth-child(2), .features li:nth-child(3), .features li:nth-child(4) {
 				margin-top: 0;
